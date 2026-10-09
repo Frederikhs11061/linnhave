@@ -1,0 +1,19 @@
+{
+  "name": "Linhave",
+  "legalName": "LINHAVE ApS TØMRER & ENTREPENØR",
+  "phone": "22 77 88 54",
+  "phoneLink": "+4522778854",
+  "email": "kontakt@linhave.dk",
+  "address": "Flegebakken 40",
+  "city": "8370 Hadsten",
+  "area": "Østjylland",
+  "founder": "Julius Linhave",
+  "founded": "2014",
+  "trustpilot": {
+    "url": "https://dk.trustpilot.com/review/linhave.dk",
+    "score": "4,4",
+    "count": 10,
+    "checked": "2026-10-04"
+  },
+  "cvr": "36042605"
+}

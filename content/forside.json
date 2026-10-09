@@ -1,0 +1,38 @@
+{
+  "lastUpdated": "2026-10-04",
+  "title": "Arkitekttegnede huse i Østjylland – byg med Linhave",
+  "description": "Et hjem tegnet til jeres hverdag. Linhave bygger arkitekttegnede huse i Østjylland og følger jer fra de første idéer til indflytning. Book et byggemøde.",
+  "h1": "Et hjem, der begynder med jer.",
+  "intro": "Morgenlys i køkkenet. Plads til at samles. Et roligt hjørne, der bare er jeres. Vi tegner og bygger rammen om det liv, I gerne vil leve.",
+  "h2": [
+    "Et hus er streger på papir. Et hjem er alt det, I fylder det med.",
+    "Forskellige hjem. Samme omtanke.",
+    "Fra en løs tanke til et sted at høre til.",
+    "Det vigtigste er, hvordan det føles undervejs.",
+    "Håndværket har et ansigt.",
+    "Der er plads til spørgsmål.",
+    "Lad os begynde med jeres idéer."
+  ],
+  "faq": [
+    {
+      "q": "Skal vi have en byggegrund, før vi kontakter jer?",
+      "a": "I er velkomne til at tage kontakt tidligt. Vi kan tale om jeres ønsker og rådgive om, hvad I skal være opmærksomme på, når I vælger grund."
+    },
+    {
+      "q": "Kan vi bruge vores egen arkitekt?",
+      "a": "Ja. Har I allerede et skitseprojekt, kan vi tage udgangspunkt i det. Involvér os gerne tidligt, så tegninger, materialer og budget kan afstemmes."
+    },
+    {
+      "q": "Hvor bygger Linhave?",
+      "a": "Vi bygger i Østjylland, typisk inden for en radius på 60 km omkring Aarhus. Fortæl os om jeres grund, så afklarer vi mulighederne sammen."
+    },
+    {
+      "q": "Kan vi selv vælge materialer og køkken?",
+      "a": "Ja. Materialerne vælges i dialog med jer, og I har frit valg af inventarfirma. Vi hjælper med at få valgene til at hænge sammen med huset og økonomien."
+    },
+    {
+      "q": "Hvad koster et arkitekttegnet hus?",
+      "a": "Prisen afhænger af grunden, størrelsen, arkitekturen og materialerne. Et byggemøde giver os grundlag for at tale om et foreløbigt budget for netop jeres projekt."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "linhave-rebuild",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0",
+    "prebuild": "tsx scripts/validate-content.ts",
+    "build": "next build",
+    "start": "next start --hostname 0.0.0.0",
+    "lint": "eslint .",
+    "check": "node scripts/check-html.mjs"
+  },
+  "dependencies": {
+    "next": "16.3.8",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "zod": "^4.0.0",
+    "@upstash/redis": "latest",
+    "@upstash/ratelimit": "latest",
+    "resend": "latest",
+    "@keystatic/core": "latest",
+    "@keystatic/next": "latest"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "tailwindcss": "latest",
+    "postcss": "latest",
+    "autoprefixer": "latest",
+    "eslint": "^9.0.0",
+    "tsx": "latest",
+    "@playwright/test": "latest",
+    "lighthouse": "latest",
+    "@tailwindcss/postcss": "latest",
+    "typescript-eslint": "latest"
+  },
+  "overrides": {
+    "@keystatic/next": {
+      "chokidar": "^4.0.3"
+    }
+  }
+}
